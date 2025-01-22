@@ -31,8 +31,5 @@ This project focuses on analyzing car data to uncover insights into how various 
 2. Open the Excel file(s) to explore the dataset and analysis.
 3. Review the visualizations and summary insights provided.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 Feel free to contribute or raise issues in the repository!
